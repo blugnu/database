@@ -1,7 +1,8 @@
 repo_name: blugnu/database
 report_id: e92316fee00c41d6e7351767fc8146b3
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-10T03:38:44+00:00'
+timestamp: '2024-01-05T09:00:56+00:00'
 requested_by: deltics
 provider: github
 branch: master
@@ -15,4 +16,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/blugnu/database
   detection_source: Repo Metadata
